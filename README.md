@@ -9,4 +9,4 @@ pip install pyautogui
 py bot.py
 
 # Para salir
-Cotrl + c
+Ctrl + c
